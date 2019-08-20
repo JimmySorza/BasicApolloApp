@@ -1,2 +1,0 @@
-# BasicApolloApp
-Created with CodeSandbox
